@@ -8,6 +8,9 @@ Se necesita instalar las siguientes liberías:
 - highcharter
 - dplyr
 - rmdformats
+- rvest
+- selectr
+- xml2
 
 y los archivos de la carpeta recursos:
 
