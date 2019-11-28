@@ -8,3 +8,12 @@ Se necesitan las siguientes liberías:
 - highcharter
 - dplyr
 - rmdformats
+
+y los archivos de la carpeta recursos:
+
+- fish_species
+- fish_tidy
+- markdown1
+- markdown2
+- regex1
+- regex2
